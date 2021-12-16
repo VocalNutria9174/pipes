@@ -4,7 +4,7 @@ A web-based remake of the Windows 3D Pipes screensaver (3D Pipes.scr or sspipes.
 
 Includes both [Utah Teapots](https://en.wikipedia.org/wiki/Utah_teapot) and candy cane easter eggs! (with increased chances 😏)
 
-[Check it out!](https://1j01.github.io/pipes/)
+[Check it out!](https://vocalnutria9174.github.io/pipes/)
 
 It's also included in [98.js.org](https://98.js.org/) as a program you can run.
 
